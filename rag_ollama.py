@@ -1,7 +1,6 @@
 """
 Sistema de Consulta Documental Inteligente
 Implementación práctica de RAG con modelos locales
-Dr. Alberto Verdecia Cabrera - 2025
 """
 import os
 import argparse
